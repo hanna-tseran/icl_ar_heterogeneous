@@ -21,7 +21,7 @@ torch.manual_seed(0)
 # Experiment parameters
 ACTIVATION_FUNCTION = 'gelu' #'gelu' # 'relu' #'tanh'
 EPOCHS_NUM = 1000
-M = 10000#0
+M = 10000
 N = 100
 REPORT_EPOCH = 100
 RUNS_NUM = 1
